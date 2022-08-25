@@ -1,4 +1,6 @@
 //Generate IP Addresses
+// Expected Time Complexity: O(N * N * N * N)
+// Expected Auxiliary Space: O(N * N * N * N)
 class Solution {
     public ArrayList<String> genIp(String s) {
         // code here
